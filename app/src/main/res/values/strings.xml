@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QRCodeCreator</string>
+    <string name="guide">Insert your text here</string>
+    <string name="btn">Create QR Code</string>
+    <string name="btn_save">Save QR Code</string>
+    <string name="toast_message">QR Code Created!</string>
+</resources>
